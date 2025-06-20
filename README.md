@@ -61,4 +61,4 @@ para exibi-las.
 Este projeto foi criado comfins didáticos, para reforçar os conceitos de lógica de programação,
 manipulação de DOM e uso básico de HTML/CSS/JS.
 
-💡Feito por quem esa sempre aprendendo!
+💡Feito por quem está sempre aprendendo!
