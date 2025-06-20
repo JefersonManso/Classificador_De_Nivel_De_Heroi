@@ -58,7 +58,7 @@ para exibi-las.
 
 ## 🎯Objetivo
 
-Este projeto foi criado comfins didáticos, para reforçar os conceitos de lógica de programação,
+Este projeto foi criado com fins didáticos, para reforçar os conceitos de lógica de programação,
 manipulação de DOM e uso básico de HTML/CSS/JS.
 
 💡Feito por quem está sempre aprendendo!
