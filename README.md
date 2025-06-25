@@ -44,9 +44,13 @@ Este projeto é uma aplicação web simples que classifica heróis com base em s
 
 ## 📁Estrutura do Projeto
 
-- `index.html`: arquivo principal com a estrutura da página.
-- `style.css`: estilo para layout, cores e posicionamento.
-- `script.js` lógica para classificar o nível e manipular as imagens.
+```
+Arquivos principais do projeto
+├── index.html   # arquivo principal com a estrutura da página
+├── style.css    # arquivo de estilo que define layout, cores e posicionamento
+└── script.js    # lógica para classificar o nível do jogador e manipular as imagens
+
+```
 
 ## ✍️Observações
 
