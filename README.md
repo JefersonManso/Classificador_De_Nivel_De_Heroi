@@ -75,9 +75,10 @@ para exibi-las.
 
 Este projeto foi criado com fins didáticos, para reforçar os conceitos de lógica de programação,
 manipulação de DOM e uso básico de HTML/CSS/JS.
----
-<ahttps://jefersonmanso.github.io/Classificador_De_Nivel_De_Heroi/  target="_blank">Acesse o projeto aqui</a>
 
+
+---
+### LINK do projeto: <a href="https://jefersonmanso.github.io/Classificador_De_Nivel_De_Heroi" target="_blank">Acesse o projeto aqui</a>
 
 ---
 
