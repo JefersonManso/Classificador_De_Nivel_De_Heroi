@@ -13,6 +13,15 @@ Este projeto é uma aplicação web simples que classifica heróis com base em s
 - Validação básica para garantir que os campos sejam preenchidos corretamente.
 - Interface com design responsivo e fundo com gradiente escuro para melhor visualização.
 
+---
+
+
+## 🔄 Fluxograma do Projeto
+
+Abaixo está o fluxograma que representa o funcionamento da aplicação:
+
+![Fluxograma do Projeto](https://github.com/JefersonManso/Classificador_De_Nivel_De_Heroi/blob/main/fluxograma.png)
+---
 
 ## 🧠Tecnologias Utilizadas
 
