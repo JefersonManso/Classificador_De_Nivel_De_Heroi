@@ -55,6 +55,8 @@ Abaixo está o fluxograma que representa o funcionamento da aplicação:
 
 ```
 Classificador-Heroico
+├── README.md
+├── fluxograma   
 ├── index.html   # arquivo principal com a estrutura da página
 ├── style.css    # arquivo de estilo que define layout, cores e posicionamento
 └── script.js    # lógica para classificar o nível do jogador e manipular as imagens
