@@ -1,9 +1,11 @@
 # Classificador de Nível de Herói
-
+---
 ## 📌Descrição
 
 Este projeto é uma aplicação web simples que classifica heróis com base em seu XP
 (pontos de experiẽncia) e exibe o nível correspondente com uma imagem animada do herói.
+
+---
 
 ## ⚙️Funcionalidades
 
@@ -14,13 +16,12 @@ Este projeto é uma aplicação web simples que classifica heróis com base em s
 - Interface com design responsivo e fundo com gradiente escuro para melhor visualização.
 
 ---
-
-
 ## 🔄 Fluxograma do Projeto
 
 Abaixo está o fluxograma que representa o funcionamento da aplicação:
 
-![Fluxograma do Projeto](https://github.com/JefersonManso/Classificador_De_Nivel_De_Heroi/blob/main/fluxograma.png)
+![Fluxograma do Projeto](/home/linux/projetos-dio/Classificador-heroico/assets/fluxograma.png)
+
 ---
 
 ## 🧠Tecnologias Utilizadas
@@ -29,6 +30,8 @@ Abaixo está o fluxograma que representa o funcionamento da aplicação:
 - CSS3 (com gradiente de fundo e estilos para inputs, botões e imagens)
 - JavaScript (para lógica de classificação e manipulação do DOM)
 
+---
+
 ## 🛠️Como Usar
 
 1. Abra o arquivo `index.html` no navegador.
@@ -36,6 +39,8 @@ Abaixo está o fluxograma que representa o funcionamento da aplicação:
 3. Insira o XP do herói (número).
 4. Clique no botão **Classificar**.
 5. Veja o nível do herói e a imagem animada correspondente (se disponível).
+
+---
 
 ## 🦸‍♂️Heróis Disponíveis
 
@@ -51,12 +56,12 @@ Abaixo está o fluxograma que representa o funcionamento da aplicação:
 | Thor                 | thor                                            |
 
 
+---
+
 ## 📁Estrutura do Projeto
 
 ```
 Classificador-Heroico
-├── README.md
-├── fluxograma   
 ├── index.html   # arquivo principal com a estrutura da página
 ├── style.css    # arquivo de estilo que define layout, cores e posicionamento
 └── script.js    # lógica para classificar o nível do jogador e manipular as imagens
@@ -71,6 +76,8 @@ já que o sistema faz uma normalização simples do nome.
 para exibi-las.
 - O projeto pode ser expandido para adicionar mais heróis, níveis, ou modos de visualização.
 
+
+---
 ## 🎯Objetivo
 
 Este projeto foi criado com fins didáticos, para reforçar os conceitos de lógica de programação,
