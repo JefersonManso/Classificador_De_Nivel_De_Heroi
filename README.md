@@ -20,8 +20,8 @@ Este projeto é uma aplicação web simples que classifica heróis com base em s
 
 Abaixo está o fluxograma que representa o funcionamento da aplicação:
 
-(![Fluxograma do Projeto](https://raw.githubusercontent.com/JefersonManso/Classificador_De_Nivel_De_Heroi/main/assets/fluxograma.png)
-)
+![Fluxograma do Projeto](https://raw.githubusercontent.com/JefersonManso/Classificador_De_Nivel_De_Heroi/main/assets/fluxograma.png)
+
 
 ---
 
