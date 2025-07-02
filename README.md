@@ -20,7 +20,8 @@ Este projeto é uma aplicação web simples que classifica heróis com base em s
 
 Abaixo está o fluxograma que representa o funcionamento da aplicação:
 
-![Fluxograma do Projeto](/home/linux/projetos-dio/Classificador-heroico/assets/fluxograma.png)
+![Fluxograma do Projeto](![Fluxograma do Projeto](https://raw.githubusercontent.com/JefersonManso/Classificador_De_Nivel_De_Heroi/main/assets/fluxograma.png)
+)
 
 ---
 
@@ -63,8 +64,14 @@ Abaixo está o fluxograma que representa o funcionamento da aplicação:
 ```
 Classificador-Heroico
 ├── index.html   # arquivo principal com a estrutura da página
-├── style.css    # arquivo de estilo que define layout, cores e posicionamento
-└── script.js    # lógica para classificar o nível do jogador e manipular as imagens
+├── README.md
+├── assets/
+│   └── fluxograma.png
+└── src/
+    ├── style.css   # arquivo de estilo que define layout, cores e posicionamento
+    └── script.js   # lógica para classificar o nível do jogador e manipular as imagens
+
+
 
 ```
 
